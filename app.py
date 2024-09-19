@@ -1,2 +1,2 @@
 # This program prints Hello, world
-print ("hello world")
+print ("hello welcome")
