@@ -1,2 +1,3 @@
 # This program prints Hello, world
-print ("hello welcome")
+printf("Welcome to devops class")
+printf("Pull Request")
