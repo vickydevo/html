@@ -1,4 +1,4 @@
-# This program prints Hello, world!
-
-print('Hello, team!')
-print ("hello class")
+# This program prints Hello, world
+printf("Welcome to devops class")
+printf("Pull Request")
+printf("lab practice")
